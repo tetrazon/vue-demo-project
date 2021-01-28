@@ -1,4 +1,4 @@
-# vue-crash-course
+# vue-demo-project
 
 This is simple js project written using Vue 2 framework
 The application is a todo page. 
